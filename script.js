@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "GERIR UMA EMPRESA",
-                afirmacao: "AFIRMATIVA RESPOSTA 1"
+                afirmacao: "professores educam alunas, eles nao gerem uma empresa"
             },
             {
                 texto: "ENSINAR E EDUCAR ALUNOS",
-                afirmacao: "AFIRMATIVA RESPOSTA 2."
+                afirmacao: "muito bem!professores educam alunos."
             }
         ]
     },
